@@ -1,0 +1,6 @@
+Computer\HKEY_CLASSES_ROOT\AppID\{CDCBCFCA-3CDC-436f-A4E2-0E02075250C2}
+
+Rename RunAs key to _RunAs
+(requires permissions to edit)
+
+This will allow explorer to be launched under other credentials when using Windows PowerShell or CMD

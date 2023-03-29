@@ -1,0 +1,22 @@
+<Configuration ID="78af7770-94ce-4cc2-8753-e9c486867a4e">
+  <Add OfficeClientEdition="32" Channel="Current">
+    <Product ID="HomeBusiness2019Retail">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+	  <ExcludeApp ID="InfoPath" />
+	  <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Publisher" />
+	  <ExcludeApp ID="SharePointDesigner" />
+	  <ExcludeApp ID="Teams" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Updates Enabled="TRUE" />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>

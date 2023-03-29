@@ -1,0 +1,1 @@
+Template folder for creating an easy installation for Office C2R versions. Will require some modifications to get working. An existing folder setup is available in the "installs" folder under "Microsoft"
